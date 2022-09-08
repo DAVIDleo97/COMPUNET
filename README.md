@@ -1,34 +1,8 @@
-<!DOCTYPE html>
-<html>
-<head>
-</head>
 
-<body>
-	<h1>Sentencias</h1>
+## BIEMBENIDO AL REPOSITORIO DEL PROYECTO DE "COMPUNET"
 
-	<p id="resultado1"></p>
-	<p id="mensaje"></p>
+####PROGRAMACION ORIENTADA A OBJETOS Y ADAPTACIONES WEB
 
-</body>
-
-<script>
-
-//SENTENCIAS
-
-var u = 8 - 4;
-var p = 3 * u;
-document.getElementById("resultado1").innerHTML = p;
-
-//SENTENCIAS AGURPADAS EN BLOQUE
-
-function mifuncion(argument){
-
-	var hola = "I love js.";
-	document.getElementById("mensaje").innerHTML = hola;
-
-}
-
-mifuncion();
-
-</script>
-</html>
+<p>Leonardo David Vásquez Alemán</p>
+<p>Johana Paola Quinde Abryl</p>
+<p>Leonardo Javier Guanoquiza Yepez</p>
